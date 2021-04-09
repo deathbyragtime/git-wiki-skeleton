@@ -1,3 +1,3 @@
-## Example page
+## La La the Example Page
 
-This is an example page. You can edit it or create a [new one](new_page.md)
+These are the days. Elmo's days.
